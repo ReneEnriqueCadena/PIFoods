@@ -1,0 +1,183 @@
+.dt1{
+  position: fixed;
+  left: -200px;
+  top: -100px;
+  max-width: 1460px;
+  
+
+}
+
+.dt2{
+    position: fixed;
+    top: 12px;
+    left: 20px;
+    font-size: large;
+    box-shadow: 1px 6px 20px rgb(0, 0, 0);
+    border-radius: 30px;
+    -webkit-text-fill-color: rgb(228, 228, 228);
+    -webkit-text-stroke: 1px rgb(20, 15, 15);
+    text-decoration: none;
+    transition: .6s;
+}
+
+.dt2:hover{
+    -webkit-text-fill-color: rgb(18, 2, 247);
+    -webkit-text-stroke: 1px rgb(0, 55, 255);
+    transform: scale(1.2);
+    background-color: rgba(120, 119, 114, 0.489);
+}
+
+.dt3{
+    -webkit-text-fill-color: rgb(54, 54, 52);
+    -webkit-text-stroke: 1px rgb(160, 149, 149);
+    box-shadow: 1px 6px 20px rgb(0, 0, 0);
+    border-radius: 30px;
+    position: fixed;
+    top: 20px;
+    left: 100px;
+    
+}
+
+.dt4{
+    position: fixed;
+    top: 30px;
+    left: 840px;
+    max-width: 300px;
+    border-radius: 30px;
+    box-shadow: 5px 8px 12px black;
+}
+
+.dt5{
+    position: fixed;
+    top: 90px;
+    left: 110px;
+    -webkit-text-fill-color: rgb(5, 185, 230);
+    -webkit-text-stroke: 1px rgb(17, 17, 172);
+    box-shadow: 5px 8px 12px black;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.ind33{
+    position: fixed;
+    top: 300px;
+    right: 50px;
+    -webkit-text-fill-color: rgb(13, 18, 18);
+    -webkit-text-stroke: 1px rgb(243, 243, 252);
+    box-shadow: 5px 8px 12px black;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.249);
+}
+
+.ind44{
+    position: relative;
+    top: -200px;
+    -webkit-text-fill-color: rgb(5, 185, 230);
+    -webkit-text-stroke: 1px rgb(17, 17, 172);
+}
+
+
+.dt7{
+    
+    position: fixed;
+    top: 240px;
+    right: 38px;
+    -webkit-text-fill-color: rgb(33, 30, 30);
+    -webkit-text-stroke: 1px rgb(217, 202, 202);
+    box-shadow: 5px 10px 20px black;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.511);
+    
+}
+
+.dt8{
+    position: fixed;
+    top: 240px;
+    right: 169px;
+    -webkit-text-fill-color: rgb(33, 30, 30);
+    -webkit-text-stroke: 1px rgb(217, 202, 202);
+    box-shadow: 5px 10px 20px black;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.511);
+}
+
+.dt9{
+    
+    position: relative;
+    top: -500px;
+}
+
+.dt10{
+    max-width: 550px;
+    -webkit-text-fill-color: rgb(151, 148, 148);
+    -webkit-text-stroke: 1px rgb(19, 18, 18);
+    position: relative;
+    left: 210px;
+    top: 120px;
+    padding: 30px
+}
+
+.dt11{
+    max-width: 550px;
+    left: 210px;
+    position: relative;
+    top: 90px;
+    padding: 30px;
+    
+}
+
+.dtt1{
+    -webkit-text-fill-color: rgb(5, 5, 5);
+    -webkit-text-stroke: 1px rgb(0, 17, 255);
+    font-size: large;
+}
+
+.dtt2{
+    -webkit-text-fill-color: rgb(140, 133, 133);
+    -webkit-text-stroke: 1px rgb(2, 1, 1);
+}
+
+.dt13{
+    position: fixed;
+    top: 238px;
+    right: 75px;
+    height: 9%;
+    width: 5%;
+    box-shadow: 5px 10px 20px black;
+    border-radius: 30px;
+    background-color: rgba(240, 248, 255, 0.249);
+    /* box-shadow: 5px 10px 20px black;
+    box-sizing: 20%;
+    border-radius: 30px; */
+}
+
+.dt14{
+    position: fixed;
+    top: 244px;
+    right: 200px;
+    height: 8%;
+    width: 5%;
+    box-shadow: 5px 10px 20px black;
+    border-radius: 30px;
+    background-color: rgba(240, 248, 255, 0.249);
+}
+
+.rp1{
+    position: fixed;
+    box-shadow: 5px 10px 20px black;
+    border-radius: 30px;
+    background-color: rgba(240, 248, 255, 0.249);
+    -webkit-text-fill-color: rgb(140, 133, 133);
+    -webkit-text-stroke: 1px rgb(2, 1, 1);
+    top: 40px;
+    left: 450px;
+}
+
+.rp2{
+    position: fixed;
+    top: 200px;
+    left: 470px;
+    box-shadow: 5px 10px 20px black;
+    border-radius: 100px;
+}

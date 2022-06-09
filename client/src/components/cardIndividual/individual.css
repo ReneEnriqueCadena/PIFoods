@@ -1,0 +1,95 @@
+.imgIndividual {
+    border-radius: 7%;
+    background-color: aliceblue;
+    box-shadow: 5px 8px 12px black;
+    transition: .5s;
+    
+}
+
+.imgIndividual:hover{
+    transform: scale(1.2);
+    background-color: aqua;
+}
+
+.imgLikes {
+    
+    position: relative;
+    top: -200px;
+    left: 61.7%;
+    height: 5%;
+    width: 5%;
+    background-color: rgba(240, 248, 255, 0.658);
+    box-shadow: 5px 10px 20px black;
+    box-sizing: 20%;
+    border-radius: 30px;
+
+}
+
+.ind1{
+    position: relative;
+    -webkit-text-fill-color: rgb(189, 189, 178);
+    -webkit-text-stroke: 1px rgb(33, 30, 30);
+    border-radius: 30px;
+    border-width: 10%;
+    left: 25%;
+    box-shadow: 5px 10px 20px black;
+    background-color: rgba(240, 248, 255, 0.155);
+    top: 10%;
+}
+
+.indLik{
+    position: relative;
+    -webkit-text-stroke: 1px rgb(39, 33, 33);
+    box-shadow: 1px 6px 20px rgb(0, 0, 0);
+    max-width: 50px;
+    left: 108%;
+    top: -200px;
+    border-radius: 30px;
+    background-color: rgba(240, 248, 255, 0.445);
+}
+
+.ind2{
+    box-shadow: 1px 6px 20px rgb(0, 0, 0);
+    font-size: small;
+    position: relative;
+    top: -95px;
+    right: -410px;
+    height: 4%;
+    width: 4%;
+    
+    border-right: 20px;
+    border-radius: 20px;
+
+}
+
+.ind3{
+    -webkit-text-fill-color: rgb(27, 28, 24);
+    -webkit-text-stroke: 1px rgb(192, 185, 185);
+    position: relative;
+    top: -275px;
+    right: -257px;
+}
+
+.ind4{
+    -webkit-text-fill-color: rgb(27, 28, 24);
+    -webkit-text-stroke: 1px rgb(192, 185, 185);
+    position: relative;
+    top: -275px;
+    right: -257px;
+}
+
+.ind5{
+    -webkit-text-fill-color: rgb(27, 28, 24);
+    -webkit-text-stroke: 1px rgb(192, 185, 185);
+    position: relative;
+    top: -275px;
+    right: -257px;
+}
+
+.ind6{
+    -webkit-text-fill-color: rgb(27, 28, 24);
+    -webkit-text-stroke: 1px rgb(192, 185, 185);
+    position: relative;
+    top: -275px;
+    right: -257px;
+}

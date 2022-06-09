@@ -1,0 +1,229 @@
+.error{
+    border: 1px solid red;
+}
+
+
+
+
+.first2 {
+    background-image: url('https://wallpaperaccess.com/full/462860.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 15em;
+    background-size: 120% 130%;
+    background-attachment: fixed;
+    
+}
+
+.cp1{
+    position: fixed;
+    top: 140px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 20px;
+}
+
+.cp2{
+    position: fixed;
+    top: 180px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 20px;
+}
+
+.cp3{
+    position: fixed;
+    top: 220px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 20px;
+}
+
+.cp4{
+    position: fixed;
+    top: 260px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 20px;
+}
+
+.cp5{
+    position: fixed;
+    top: 300px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+}
+
+.cp6{
+    position: fixed;
+    top: 340px;
+    left: 490px;
+    box-shadow: 5px 8px 12px black;
+}
+
+
+.cp7{
+    position: fixed;
+    top: 440px;
+    left: 550px;
+    box-shadow: 5px 8px 12px black;
+    transition: .7s;
+    border-radius: 15px;
+}
+
+.cp7:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.2);
+    background-color: rgba(54, 185, 225, 0.489);
+    border-radius: 20px;
+}
+
+.cp8{
+    -webkit-text-fill-color: rgb(62, 60, 58);
+    -webkit-text-stroke: 1px rgb(222, 218, 218);
+    text-decoration: none;
+    position: fixed;
+    top: 460px;
+    left: 800px;
+    box-shadow: 5px 8px 12px black;
+    transition: .5s;
+    font-size: 20px;
+    border-radius: 30px;
+
+}
+
+.cp8:hover{
+    -webkit-text-fill-color: rgb(247, 88, 2);
+    -webkit-text-stroke: 1px rgb(255, 0, 0);
+    transform: scale(1.2);
+    background-color: rgba(120, 119, 114, 0.489);
+}
+
+.cp9{
+    position: fixed;
+    top: 50px;
+    left: 430px;
+    -webkit-text-fill-color: rgb(21, 21, 18);
+    -webkit-text-stroke: 1px rgb(189, 180, 180);
+    box-shadow: 5px 8px 12px black;
+    border-radius: 30%;
+
+}
+
+.pc1{
+    position: fixed;
+    top: 39%;
+    left: 385px;
+    width: 350px;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 30%;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.pc2{
+    position: fixed;
+    top: 50px;
+    left: 30%;
+    -webkit-text-fill-color: rgb(21, 21, 18);
+    -webkit-text-stroke: 1px rgb(189, 180, 180);
+    box-shadow: 5px 8px 12px black;
+    border-radius: 30%;
+}
+
+.pc3{
+    position: fixed;
+    top: 150px;
+    left: 485px;
+    box-shadow: 5px 8px 12px black;
+    transition: .7s;
+    border-radius: 15px;
+}
+
+.pc3:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.2);
+    background-color: rgba(54, 185, 225, 0.489);
+    border-radius: 20px;
+}
+
+.pc4{
+    -webkit-text-fill-color: rgb(62, 60, 58);
+    -webkit-text-stroke: 1px rgb(222, 218, 218);
+    text-decoration: none;
+    position: fixed;
+    top: 460px;
+    left: 800px;
+    box-shadow: 5px 8px 12px black;
+    transition: .5s;
+    font-size: 20px;
+    border-radius: 30px;
+
+}
+
+.pc4:hover{
+    -webkit-text-fill-color: rgb(247, 88, 2);
+    -webkit-text-stroke: 1px rgb(255, 0, 0);
+    transform: scale(1.2);
+    background-color: rgba(120, 119, 114, 0.489);
+}
+
+.err1{
+    background-color: red;
+    border-radius: 30px;
+    position: fixed;
+    top: 124px;
+    right: 680px;
+    -webkit-text-fill-color: rgb(241, 3, 3);
+    -webkit-text-stroke: 1px rgb(240, 223, 223);
+}
+
+.err2{
+    background-color: red;
+    border-radius: 30px;
+    position: fixed;
+    top: 164px;
+    right: 680px;
+    -webkit-text-fill-color: rgb(241, 3, 3);
+    -webkit-text-stroke: 1px rgb(240, 223, 223);
+}
+
+.err3{
+    background-color: red;
+    border-radius: 30px;
+    position: fixed;
+    top: 204px;
+    right: 680px;
+    -webkit-text-fill-color: rgb(241, 3, 3);
+    -webkit-text-stroke: 1px rgb(240, 223, 223);
+}
+
+.err4{
+    background-color: red;
+    border-radius: 30px;
+    position: fixed;
+    top: 244px;
+    right: 680px;
+    -webkit-text-fill-color: rgb(241, 3, 3);
+    -webkit-text-stroke: 1px rgb(240, 223, 223);
+}
+
+.err10cp{
+    background-color: red;
+    border-radius: 30px;
+    position: fixed;
+    top: 350px;
+    right: 680px;
+    -webkit-text-fill-color: rgb(241, 3, 3);
+    -webkit-text-stroke: 1px rgb(240, 223, 223);
+}
+
+.hpp1{
+    background-color: rgba(0, 0, 0, 0.47);
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(26, 26, 209);
+    position: fixed;
+    left: 49%;
+    top: 51%;
+    border-radius: 30px;
+    box-shadow: 5px 8px 12px black;
+}

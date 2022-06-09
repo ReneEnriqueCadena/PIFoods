@@ -1,0 +1,131 @@
+
+
+.first3 {
+    background-image: url('https://files.wallpaperpass.com/2019/10/food%20wallpaper%20131%20-%201920x1080.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 15em;
+    background-size: 100% 110%;
+    background-attachment: fixed;
+}
+
+.buttonNewR {
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    -webkit-text-stroke: 1px rgb(63, 55, 55);
+    text-decoration: none;
+    
+    background-color: rgba(223, 221, 216, 0.413);
+    border-radius: 30px;
+    box-shadow: 5px 10px 20px black;
+    
+    position: fixed;
+    left: 10%;
+    top: 70%;
+    transform: 10%;
+    height: 10%;
+    width: 10%;
+    background-position: center;
+    transition: .5s;
+}
+
+.buttonNewR:hover{
+    -webkit-text-fill-color: rgb(31, 23, 239);
+    -webkit-text-stroke: 1px rgb(37, 219, 236);
+    transform: scale(1.2);
+    background-color: rgba(120, 119, 114, 0.489);
+}
+
+.h1{
+    position: fixed;
+    left: 5%;
+    top: 30%;
+    box-shadow: 5px 10px 20px black;
+}
+
+.input1{
+    border-top-left-radius: 30px;
+}
+
+.search12{
+    border-radius: 10px;
+}
+
+.h2{
+    color: rgb(123, 115, 115);
+    position: fixed;
+    left: 5%;
+    top: 43%;
+    box-shadow: 5px 10px 20px black;
+    border-top-left-radius: 30px;
+}
+
+.h2cop{
+    color: rgb(148, 138, 138);
+    position: fixed;
+    left: 5%;
+    top: 35%;
+    box-shadow: 5px 10px 7px black;
+    
+}
+
+.h3{
+    border-bottom-right-radius: 30px;
+    color: rgb(123, 115, 115);
+    position: fixed;
+    left: 17%;
+    top: 43%;
+    box-shadow: 5px 10px 20px black;
+}
+
+.h3cop{
+    
+    color: rgb(168, 162, 162);
+    position: fixed;
+    left: 17%;
+    top: 35%;
+    box-shadow: 5px 10px 7px black;
+}
+
+.h4{
+    border-top-left-radius: 30px;
+    position: fixed;
+    right: 92%;
+    top: 60%;
+    box-shadow: 5px 10px 7px black;
+}
+.h6{
+    position: fixed;
+    right: 88.5%;
+    top: 60%;
+    box-shadow: 5px 10px 7px black;
+
+}
+.h5{
+    position: fixed;
+    left: 13%;
+    top: 60%;
+    box-shadow: 5px 10px 7px black;
+    border-bottom-right-radius: 30px;
+}
+
+.h1search{
+    -webkit-text-fill-color: rgb(21, 21, 18);
+    -webkit-text-stroke: 1px rgb(189, 180, 180);
+    position: fixed;
+    top: 190px;
+    left: 150px;
+    background-color: rgba(201, 140, 9, 0.062);
+    border-radius: 30px;
+    box-shadow: 5px 10px 20px black;
+    
+}
+
+.h100{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: fixed;
+    left: 59px;
+    top: 280px;
+    box-shadow: 5px 10px 7px black;
+}
+
